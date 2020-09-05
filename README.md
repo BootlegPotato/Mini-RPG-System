@@ -1,4 +1,4 @@
 # Mini RPG System
 A mini RPG system intended to be a functional set of rules for RPG themed zines and art books. 
 
-Currently in development with intent to be licensed under CC BY-SA or OGL once I have figured out what terms and ideas will be used in the open rule set separate from the project that I want to retain ownership of.  
+Currently in development with intent to be licensed under CC BY-SA or OGL once I have figured out what terms and ideas that will be included in the open rule set and what will be pulled out for the project that I want to retain ownership of. Or in other words stripping out any setting and story specific terms and details from the rules so that that anyone can repurpose the rules for their own games. I also want to figure out how to appropriately allow others create their own contributions to my setting. 
