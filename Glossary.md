@@ -1,7 +1,7 @@
-# Terms
+# Glossary
 
 ## Abilities
-All the actions a player can take that require rolling a dice to see if they sucseeds.
+All the actions a player can take that require rolling dice to see if they succeed.
 
 ## Ability Achievements
 Bonuses to Ability Checks that gained by spending Achievement Points. Sometimes a Proficiency Achievement will require that you have one or more other Achievements before you can acquire it. Like Ace Swimmer requires that you have Skilled Swimmer first. 

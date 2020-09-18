@@ -32,3 +32,5 @@ If an achievement gives a bonus to an ability then the player needs to update th
 
 ### Achievement Points
 When the Narrator tell the player they have earned Achievement Points they add it to their total points. If they spend any Achievement Point to get a 
+
+## Items + Supplies
